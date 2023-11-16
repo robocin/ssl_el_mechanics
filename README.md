@@ -31,3 +31,5 @@
 -eixo da roda de aço inox(parafuso allen semi rosca m5x12);
 
 -6 parafusos chanfrados m2x6 para fixação dos motores;
+
+**obs**:ainda há um problema de encaixe da capa, que não foi definido/resolvido durante a live
